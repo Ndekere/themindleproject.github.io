@@ -1,5 +1,5 @@
 # tmd_website
-Website For The Mindle Project
+Website For The Mindle Project = https://themindleproject.njoo.co.ke/
 
 #### still under maintenance
 
